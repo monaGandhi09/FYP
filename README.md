@@ -21,3 +21,4 @@ Mentor -- Prof. Vaibhav Dhore
 2. Put the data in a folder named 'data'
 3. Check the TODOs in main.py and do the appropriate changes 
 4. Run main.py with the following command: ```python main.py```
+5. The results will be stored in 'results/nslkdd' and 'results/2018' folders
