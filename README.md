@@ -25,4 +25,4 @@ Mentor -- Prof. Vaibhav Dhore
 
 ## Documentations
 Our presentation is available [here](https://docs.google.com/presentation/d/1bfREdJ4BEEDlcBR4V101dSBHfUNFtkYQiPNiIVEFuHw/edit?usp=sharing).\
-The detailed report can be downloaded [here](https://github.com/monaGandhi09/FYP/blob/main/Stage_2_FYP_Report.pdf)
+The detailed report can be downloaded [here](https://github.com/monaGandhi09/FYP/blob/main/Stage_2_FYP_Report.pdf).
